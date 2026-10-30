@@ -1,1 +1,77 @@
+Basic Network Security Guide
+
+Introduction
+
+Network security refers to the policies, technologies and practices used to protect computer networks and the information transmitted through them. Its main objectives are to prevent unauthorised access, protect data, maintain availability and detect suspicious activities.
+Common Network Security Threats
+
+Malware
+Malware is malicious software that can infect computers, steal information, disrupt services or spread across a network.
+Protection measures:
+•	Use reputable endpoint protection software.
+•	Keep operating systems and applications updated.
+•	Restrict unnecessary software installation.
+•	Back up important information regularly.
+Unauthorised Access
+Unauthorised access occurs when a person or device connects to network resources without permission.
+Protection measures:
+•	Use strong, unique passwords.
+•	Enable multifactor authentication where supported.
+•	Apply role-based access controls.
+•	Disable unused accounts and services.
+•	Review user permissions regularly.
+Phishing and Social Engineering
+Attackers may trick employees into revealing credentials or opening malicious attachments, allowing attackers to gain access to organisational systems.
+Protection measures:
+•	Train users to recognise suspicious messages.
+•	Verify unusual requests through trusted channels.
+•	Never share passwords or verification codes.
+•	Report suspected phishing attempts.
+Denial-of-Service Attacks
+A denial-of-service attack attempts to make a network service unavailable by overwhelming it with traffic or requests. Distributed denial-of-service attacks may involve many compromised devices.
+Protection measures:
+•	Use appropriate network filtering and traffic monitoring.
+•	Configure firewalls and other suitable protective controls.
+•	Establish an incident-response procedure.
+•	Consider specialist DDoS protection for exposed services.
+Eavesdropping and Data Interception
+Attackers may attempt to observe network traffic to obtain sensitive information, especially where communications are not properly protected.
+Protection measures:
+•	Use encryption such as HTTPS and secure VPN connections where appropriate.
+•	Use secure Wi-Fi encryption.
+•	Avoid transmitting confidential information through insecure channels.
+•	Restrict access to network equipment and management interfaces.
+Essential Network Security Controls
+Firewalls
+A firewall filters network traffic according to configured security rules. It helps block unwanted connections while allowing approved communications.
+Network Segmentation
+Network segmentation divides a network into separate sections. For example, an organisation may separate its guest Wi-Fi, employee devices and servers. This can limit the spread of attacks and restrict access between network areas.
+Encryption
+Encryption protects information by converting it into a form that cannot normally be understood without the appropriate key. It helps protect data while it is transmitted or stored.
+Intrusion Detection and Prevention
+An intrusion detection system (IDS) monitors activity for signs of suspicious behaviour and generates alerts. An intrusion prevention system (IPS) can also block certain detected malicious traffic according to its configuration.
+Secure Configuration and Updates
+Network devices should use secure configurations, supported software and current security updates. Unnecessary services and default credentials should be removed or changed.
+Access Control
+Access control ensures that users receive only the permissions needed for their responsibilities. Administrative access should be restricted and protected by stronger authentication.
+Network Security Monitoring
+Organisations should monitor relevant firewall logs, authentication events, network traffic and security alerts. Monitoring helps analysts identify unusual activity and investigate potential incidents.
+Logs should be protected from unauthorised modification and retained according to organisational requirements. Alerts should be investigated using an established incident-response process.
+Incident Response
+When a suspected network security incident occurs:
+1.	Report the incident to the authorised IT or security team.
+2.	Record the time, affected systems and observed symptoms.
+3.	Follow the organisation's incident-response procedure.
+4.	Contain affected systems when directed by authorised responders.
+5.	Preserve relevant logs and other evidence.
+6.	Recover systems using approved procedures and verify that they are secure.
+7.	Document lessons learned and implement improvements.
+
+8.	 Conclusion
+Effective network security requires layered protection, including firewalls, access control, encryption, network segmentation, patching and monitoring. Regular reviews and user awareness help organisations reduce risk and respond more effectively to security incidents.
+ References
+•	National Institute of Standards and Technology (NIST): https://www.nist.gov/cyberframework
+•	Cybersecurity and Infrastructure Security Agency (CISA): https://www.cisa.gov/
+•	Cisco Networking Academy: https://www.netacad.com/
+
 
